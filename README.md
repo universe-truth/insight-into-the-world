@@ -1,1 +1,1 @@
-此為《慧眼觀世界》文章。
+此為《[慧眼觀世界](https://trello-attachments.s3.amazonaws.com/5c98a0649bf7378f6c92a1cc/608c2a1b30fc9666ff17c711/61045ddb575a089bc3631f6c4f09fc6a/%E6%85%A7%E7%9C%BC%E8%A7%80%E4%B8%96%E7%95%8C(7)%E6%96%B0-%E7%B9%81%E9%AB%94.pdf)》文章。
