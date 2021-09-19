@@ -4,3 +4,16 @@ html {
 .user-select-none {
   user-select: none;
 }
+.p {
+  text-indent: 1.5em;
+  text-align: justify;
+}
+.hash-link {
+  float: left;
+  opacity: 0;  
+  transition: opacity .2s;
+}
+.p-container:hover > .hash-link {
+  opacity: 1;
+  transition: opacity .2s;
+}
